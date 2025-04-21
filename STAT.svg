@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_941" data-name="Path 941" d="M280,117a24,24,0,1,1,24,24A24,24,0,0,1,280,117Z" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_64" data-name="Rectangle 64" width="27.84" height="27.84" transform="translate(290.08 103.08)" fill="#5c5c5c"/>
+    </clipPath>
+  </defs>
+  <g id="Group_219" data-name="Group 219" transform="translate(-426.5 -368.5)">
+    <g id="Visual_Picker" data-name="Visual Picker" transform="translate(427 369)">
+      <path id="Path_930" data-name="Path 930" d="M208.5,29a7.5,7.5,0,0,1,7.5-7.5H392a7.5,7.5,0,0,1,7.5,7.5V205a7.5,7.5,0,0,1-7.5,7.5H216a7.5,7.5,0,0,1-7.5-7.5Z" transform="translate(-208.5 -21.5)" fill="#fff"/>
+      <path id="Path_931" data-name="Path 931" d="M208.5,29a7.5,7.5,0,0,1,7.5-7.5H392a7.5,7.5,0,0,1,7.5,7.5V205a7.5,7.5,0,0,1-7.5,7.5H216a7.5,7.5,0,0,1-7.5-7.5Z" transform="translate(-208.5 -21.5)" fill="none" stroke="#c9c9c9" stroke-width="1"/>
+    </g>
+    <g id="Group_100" data-name="Group 100" transform="translate(219 348)" clip-path="url(#clip-path)">
+      <path id="Path_940" data-name="Path 940" d="M4,0H44a4,4,0,0,1,4,4V44a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(280 93)" fill="#d50032"/>
+      <g id="Mask_Group_6" data-name="Mask Group 6" clip-path="url(#clip-path-2)">
+        <path id="date_time" d="M25.288,3.944h-2.32V3.016a1.856,1.856,0,1,0-3.712,0v.928H10.9V3.016a1.856,1.856,0,0,0-3.712,0v.928H4.872A2.823,2.823,0,0,0,2.088,6.728v.928a.916.916,0,0,0,.928.928H27.144a.916.916,0,0,0,.928-.928V6.728A2.823,2.823,0,0,0,25.288,3.944Zm1.856,7.424H3.016a.916.916,0,0,0-.928.928v13.92A2.823,2.823,0,0,0,4.872,29H25.288a2.823,2.823,0,0,0,2.784-2.784V12.3A.916.916,0,0,0,27.144,11.368ZM15.08,27.086a6.9,6.9,0,1,1,6.9-6.9A6.9,6.9,0,0,1,15.08,27.086Zm.7-7.192V16.936a.5.5,0,0,0-.464-.464h-.464a.5.5,0,0,0-.464.464v3.248a.528.528,0,0,0,.232.464l2.2,2.2a.455.455,0,0,0,.638,0l.348-.348a.455.455,0,0,0,0-.638Z" transform="translate(288.92 101.92)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
