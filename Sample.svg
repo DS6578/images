@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="191" height="191" viewBox="0 0 191 191">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1062" data-name="Path 1062" d="M280,117a24,24,0,1,1,24,24A24,24,0,0,1,280,117Z" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_109" data-name="Rectangle 109" width="33.393" height="33.393" transform="translate(290.08 103.08)" fill="#5c5c5c"/>
+    </clipPath>
+  </defs>
+  <g id="Group_244" data-name="Group 244" transform="translate(-794 -306)">
+    <path id="Path_930" data-name="Path 930" d="M208.5,29a7.5,7.5,0,0,1,7.5-7.5H392a7.5,7.5,0,0,1,7.5,7.5V205a7.5,7.5,0,0,1-7.5,7.5H216a7.5,7.5,0,0,1-7.5-7.5Z" transform="translate(585.5 284.5)" fill="#fff"/>
+    <g id="Group_232" data-name="Group 232" transform="translate(586 285)" clip-path="url(#clip-path)">
+      <path id="Path_1059" data-name="Path 1059" d="M4,0H44a4,4,0,0,1,4,4V44a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(280 93)" fill="#ff538a"/>
+      <g id="Mask_Group_49" data-name="Mask Group 49" transform="translate(-3.08 -3.08)" clip-path="url(#clip-path-2)">
+        <g id="Group_231" data-name="Group 231" transform="translate(298.799 106.558)">
+          <g id="noun-test-tube-2131690" transform="translate(0)">
+            <g id="noun-test-tube-2131690-2" data-name="noun-test-tube-2131690">
+              <path id="Path_1060" data-name="Path 1060" d="M408,240h15.955v3.989H408Z" transform="translate(-408 -240)" fill="#fff"/>
+              <path id="Path_1061" data-name="Path 1061" d="M450,288v21.689a6.232,6.232,0,0,0,12.465,0V288Zm10.969,12.963H451.5V289.5h9.473Z" transform="translate(-448.255 -286.006)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
